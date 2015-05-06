@@ -25,10 +25,10 @@ pip install pycrypto pytz
 執行方式為：
 
 ```bash
-python easycard.pyc [悠遊卡背面上的卡號]
+python easycard.py [悠遊卡背面上的卡號]
 ```
 
-> 由於程式碼本身存在讓有心人士作為惡意用途的可能（例如：干擾付費相關功能），在完全確定之前暫時不提供原始碼（.py）檔案。
+> JavaScript 製作的網頁查詢版本請見：http://vox.vg/blog/2015/05/05/reverse-engineering-private-apis-for-easy-card-balance-checking/demo/
 
 ###版權聲明
 
